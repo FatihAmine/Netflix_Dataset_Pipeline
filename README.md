@@ -50,6 +50,18 @@ A breakdown of content ratings across both Movies and TV Shows. It highlights wh
 A histogram showing the overall distribution of content release years, showing a strong concentration of newer releases.
 ![Distribution of Content](images/chart_4.png)
 
+#### Netflix Content by Rating (Proportions)
+A pie chart highlighting the proportion of the entire catalog classified as Movies versus TV Shows.
+![Netflix Content by Rating](images/newplot.png)
+
+#### Top 10 Countries by Content Production (Proportions)
+A pie chart illustrating the relative percentage of content produced by the top 10 countries.
+![Top 10 Countries by Proportion](images/plot2.png)
+
+#### Total Count: Movies vs TV Shows
+A bar chart providing a clear numeric comparison between the total number of Movies and TV Shows on the platform.
+![Movies vs TV Shows Count](images/newplot3.png)
+
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
